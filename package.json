@@ -1,7 +1,7 @@
 {
-  "name": "@winner-fed/stylelint-config-win",
+  "name": "@lawrence_ch/stylelint-config-win",
   "version": "0.1.7",
-  "description": "CSS Style guide for winner fed",
+  "description": "CSS Style guide for lawrence_ch",
   "keywords": [
     "stylelint",
     "stylelint-config",
@@ -15,7 +15,7 @@
     "strict",
     "validate"
   ],
-  "author": "winner fed",
+  "author": "lawrence_ch",
   "license": "MIT",
   "repository": {
     "type": "git",
@@ -44,9 +44,9 @@
     "stylelint": ">=13.5.0"
   },
   "bugs": {
-    "url": "https://github.com/cloud-templates/stylelint-config-win/issues"
+    "url": "https://github.com/lawrence998/stylelint-config-win/issues"
   },
-  "homepage": "https://github.com/cloud-templates/stylelint-config-win#readme",
+  "homepage": "https://github.com/lawrence998/stylelint-config-win#readme",
   "publishConfig": {
     "access": "public"
   }

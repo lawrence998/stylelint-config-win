@@ -6,7 +6,7 @@
 ## 安装
 
 ```shell
-yarn add @winner-fed/stylelint-config-win -D
+yarn add @lawrence_ch/stylelint-config-win -D
 ```  
 
 ##  依赖版本
@@ -21,7 +21,7 @@ stylelint ^13.6.1
 
 ```javascript
 {
-  extends: "@winner-fed/stylelint-config-win"
+  extends: "@lawrence_ch/stylelint-config-win"
 }
 ``` 
 
